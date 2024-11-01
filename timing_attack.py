@@ -3,7 +3,7 @@ import time
 import string
 
 # Target Server
-TARGET_URL = "http://localhost:5000/auth_password"
+TARGET_URL = "http://localhost:5555/auth_password"
 symbols = "!@#$%&*+-=()[]{}"
 CHARACTER_SET = string.ascii_letters + string.digits + symbols
 
